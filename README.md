@@ -30,7 +30,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="50" />
   <img src="https://skillicons.dev/icons?i=nestjs&theme=light" height="50" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="50" />
-  <img src="https://skillicons.dev/icons?i=postgres&theme=light" height="50" />
   <img src="https://skillicons.dev/icons?i=arduino&theme=light" height="50" />
   <img src="https://skillicons.dev/icons?i=wordpress&theme=light" height="50" />
 </p>
@@ -57,9 +56,6 @@ Course portal for adult learners built with WordPress.
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://seanchvz.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/seanchvz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
