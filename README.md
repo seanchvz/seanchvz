@@ -1,5 +1,14 @@
+<h1 align="center">Hi, I'm Sean 👋</h1>
+
+<p align="center">
+  Passionate developer focused on building modern, scalable web solutions.<br/>
+  Experienced in <strong>Next.js</strong>, <strong>NestJS</strong>, <strong>TypeScript</strong>, and <strong>MySQL</strong>.
+</p>
+
+---
+
 <h2 align="center">📊 GitHub Stats</h2>
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=seanchvz&show_icons=true&theme=radical" />
@@ -12,69 +21,49 @@
 
 ---
 
-<h1 align="center">Hi, I'm Sean 👋</h1>
+## 🚀 Tech Stack
 
 <p align="center">
-  Passionate developer focused on building modern, scalable web solutions.<br/>
-  Experienced in <strong>Next.js</strong>, <strong>NestJS</strong>, <strong>TypeScript</strong>, and <strong>MySQL</strong>.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔭 Building: Lessor Management Systems, IoT Dashboards, Profiling System
-- ⚙️ Focused on: Full-stack, and Frontend
-- 📊 IoT Experience: ESP32 + RFID + GPS + ThingSpeak
-- 🧠 Always exploring: Automation, design systems, database optimization
-
----
-
-## 🛠️ Tech Stack
-
-```bash
-Frontend:  Next.js • React • TypeScript • Tailwind CSS  
-Backend:   NestJS • Node.js • Express • Prisma  
-Database:  MySQL • PostgreSQL  
-Tools:     Git • GitHub • Figma • WordPress  
-Hardware:  ESP32 • RFID RC522 • GPS modules  
-```
-
-## 📈 Projects
+## 📂 Projects
 
 ### 🧾 Globe Lessor Management System
-A full-stack enterprise-grade web app built for Globe Telecom PH to manage lessors and related data (notes, attachments, expiry tracking).  
-🔧 **Responsibilities:** UI/UX design, RESTful API integration, MySQL schema modeling, form validation, CSV export.  
-🛠 **Tech Used:** Next.js • NestJS • Prisma • TypeScript • MySQL • Tailwind CSS
+Lease management app with file uploads, notes, and CSV export.  
+🛠️ Next.js • NestJS • Prisma • MySQL
+
+### 🚌 Bus Passenger Monitoring
+Real-time bus monitoring with ESP32, GPS, and RFID.  
+📡 ThingSpeak • C/C++ • CSV Reporting
+
+### 🏫 ADD-ALL Website
+Course portal for adult learners built with WordPress.  
+📋 Divi Theme • Google Forms • Custom Forms
 
 ---
 
-### 🚌 Bus Passenger Monitoring System
-IoT-based solution for Davao City's High Priority Bus System using ESP32, RFID, and GPS to monitor passenger density and upload data to ThingSpeak in real time.  
-🔧 **Focus Areas:** Data throughput optimization, hardware-software integration, dashboard visualization, GPS location tracking.  
-📡 **Tech Used:** ESP32 • RFID RC522 • GPS Module • ThingSpeak • C/C++ • CSV Reporting
+## 📬 Connect With Me
 
----
-
-### 🏫 ADD-ALL Website (Ateneo de Davao University)
-An accessible course platform designed for adult learners, featuring course announcements, proposal submission, and event listings.  
-🔧 **Scope:** WordPress customization using Divi, Google Forms integration, user flow simplification, and content management.  
-📋 **Tech Used:** WordPress • Divi Theme • PHP • Google Forms • Custom HTML/CSS
-
----
-
-## 🧠 What I Code
-
-```bash
-Frontend:  Next.js • React • TypeScript • Tailwind CSS  
-Backend:   NestJS • Node.js • Express • Prisma • REST APIs  
-Database:  MySQL • PostgreSQL  
-IoT:       ESP32 • RFID • GPS • ThingSpeak  
-Tools:     Git • GitHub • Docker • Figma • Postman  
-```
-
-## 📬 Let's Connect
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/seanchvz/
-- 📫 **Email:** seann.chvz@gmail.com
+<p align="center">
+  <a href="https://seanchvz.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/seanchvz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seann.chvz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
