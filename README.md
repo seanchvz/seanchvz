@@ -24,16 +24,17 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=light" height="50" />
+  <img src="https://skillicons.dev/icons?i=react&theme=light" height="50" />
+  <img src="https://skillicons.dev/icons?i=typescript&theme=light" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="50" />
+  <img src="https://skillicons.dev/icons?i=nestjs&theme=light" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="50" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=light" height="50" />
+  <img src="https://skillicons.dev/icons?i=arduino&theme=light" height="50" />
+  <img src="https://skillicons.dev/icons?i=wordpress&theme=light" height="50" />
 </p>
+
 
 ---
 
