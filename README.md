@@ -1,8 +1,14 @@
-## 📊 GitHub Stats
-
-![Sean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seanchvz&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seanchvz&layout=compact&theme=radical)
+<h2 align="center">📊 GitHub Stats</h2>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=seanchvz&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanchvz&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ---
 
